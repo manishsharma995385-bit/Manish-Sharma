@@ -1,0 +1,6 @@
+{
+  "name": "Project Workspace",
+  "description": "An all-in-one collaborative office manager to coordinate projects, track deadlines, chat with team members, manage local files, and export reports to PDF with automated overdue email logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
